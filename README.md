@@ -100,7 +100,7 @@ Graphical user interface
 
 Ayushman Kushwaha
 ERP ID: RU-25-10366
-B.Tech CSE (AI & ML) in association with IBM
+B.Tech CSE (AI & ML) in association with Google
 Guide: Mr. Surya Kumar Mani
 
 📚 References
